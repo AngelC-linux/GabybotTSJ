@@ -14,4 +14,9 @@ This is a project simplifies the management of the social service department.
  - `PATH_PDF` = /home/your/route/pdf/file.pdf
  - `INFORMATION` = https://your-google-presentation-or-rute
  - `PHOTO_01` = /home/your/example/photo/
- - `MODIFIED_PDF_PATH` = path/where/the/new/pdf/with/added/information/will/be/generated
+ - `PHOTO_02` = /home/your/example/photo/
+ - `PHOTO_03` = /home/your/example/photo/
+ - `PHOTO_04` = /home/your/example/photo/
+ - `MODIFIED_PDF_PATH` = path/where/the/new/pdf/with/added/information/will/be/`Temp`
+
+3. **You need create a new `Temp` folder in your `.env`**
