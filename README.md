@@ -24,4 +24,4 @@ GabybotTSJ is a project that simplifies the management of the social service dep
 
 Special thanks:
 - We thank to the developers of ReportLab for providing this PDF generation library.
-- https://github.com/Distrotech/reportlab
+https://github.com/Distrotech/reportlab
