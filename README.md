@@ -1,9 +1,9 @@
 # GabybotTSJ
-Chatbot ITJ. A project for the social service department of the ITJ Institute
 -----------------------------
-## GNUv2 License
+## License
+This project is licensed under the Apache License 2.0, see the LICENSE file for more details
 -----------------------------
-This is a project simplifies the management of the social service department. 
+GabybotTSJ is a project that simplifies the management of the social service department of Tecnológico Superior de Jalisco. 
 
 1. **Setting up your environment:**
 - complete your own virtual environment and install all libraries.
