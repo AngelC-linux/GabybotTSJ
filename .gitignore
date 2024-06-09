@@ -1,3 +1,9 @@
+# macos
+.DS_Store
+# Ignore files/folders starting with a dot (.)
+.*
+#Libraries
+requirements.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +11,10 @@ __pycache__/
 
 # C extensions
 *.so
+
+# Compiler / IDE
+.idea
+.VSCode
 
 # Distribution / packaging
 .Python
@@ -120,8 +130,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+chatbot-python/.env
 .venv
+.env
 env/
 venv/
 ENV/
@@ -151,6 +162,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# database
+db/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can

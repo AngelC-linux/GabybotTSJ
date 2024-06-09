@@ -20,3 +20,8 @@ GabybotTSJ is a project that simplifies the management of the social service dep
  - `MODIFIED_PDF_PATH` = path/where/the/new/pdf/with/added/information/will/be/`Temp`
 
 3. **You need create a new `Temp` folder in your `.env`**
+
+
+Special thanks
+We thank to the developers of ReportLab for providing this PDF generation library.
+https://github.com/Distrotech/reportlab
