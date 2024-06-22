@@ -1,6 +1,6 @@
 # ChatSocialService or GabybotTSJ
 -----------------------------
-## Licence
+## License
 This project is licensed under the Apache License 2.0, See the LICENSE file for more details.
 -----------------------------
 GabybotTSJ is a project simplifies the management of the social service department. 
