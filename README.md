@@ -9,7 +9,7 @@ GabybotTSJ is a project simplifies the management of the social service departme
 - complete your own virtual environment and install all libraries.
 
 ### 2. **Configuration with .env file**
--Create an `.env` file with the following validations:
+    * Create an `.env` file with the following validations:
  - `TOKEN_BOT` = Your bot token (replace`XXXXXXX`)
  - `PATH_PDF` = /home/your/route/pdf/file.pdf
  - `INFORMATION` = https://your-google-presentation-or-rute
@@ -77,7 +77,7 @@ The chatbot in Telegram was tested to observe its functionality when generating 
   
 Tests also included sending images in PNG and JPG formats to provide filling examples through the chatbot questionnaire on Telegram. It was ensured that the X and Y 
 coordinates where the data is plotted, are accurate and readable for users when downloading the generated file through the Telegram chatbot.  
-We hope that the project can be useful for other Tecnológicos and it can be complemented. I send greetings.
+We hope that the project can be useful for other Tecnológicos and it can be complemented. We send greetings.
 
 
 
