@@ -9,7 +9,7 @@ GabybotTSJ is a project simplifies the management of the social service departme
 - complete your own virtual environment and install all libraries.
 
 ### 2. **Configuration with .env file**
-    * Create an `.env` file with the following validations:
+1. *Create an `.env` file with the following validations:*
  - `TOKEN_BOT` = Your bot token (replace`XXXXXXX`)
  - `PATH_PDF` = /home/your/route/pdf/file.pdf
  - `INFORMATION` = https://your-google-presentation-or-rute
