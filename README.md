@@ -1,9 +1,9 @@
-# ChatSocialService
+# ChatSocialService or GabybotTSJ
 -----------------------------
 ## Licence
 This project is licensed under the Apache License 2.0, See the LICENSE file for more details.
 -----------------------------
-ChatSocialServiceTecmm is a project simplifies the management of the social service department. 
+GabybotTSJ is a project simplifies the management of the social service department. 
 
 ### 1. **Setting up your environment:**
 - complete your own virtual environment and install all libraries.
